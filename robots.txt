@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://m.pshfwaq.cn/sitemap.xml
